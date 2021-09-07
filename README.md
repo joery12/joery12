@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joery12
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning http, css javascript
+- 🌱 I’m currently learning html, css javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
